@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\bin\Debug\netcoreapp2.1\For-Bonus-Ron.deps.json
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\bin\Debug\netcoreapp2.1\For-Bonus-Ron.runtimeconfig.json
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\bin\Debug\netcoreapp2.1\For-Bonus-Ron.runtimeconfig.dev.json
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\bin\Debug\netcoreapp2.1\For-Bonus-Ron.dll
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\bin\Debug\netcoreapp2.1\For-Bonus-Ron.pdb
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\obj\Debug\netcoreapp2.1\For-Bonus-Ron.csprojAssemblyReference.cache
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\obj\Debug\netcoreapp2.1\For-Bonus-Ron.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\obj\Debug\netcoreapp2.1\For-Bonus-Ron.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\obj\Debug\netcoreapp2.1\For-Bonus-Ron.AssemblyInfo.cs
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\obj\Debug\netcoreapp2.1\For-Bonus-Ron.dll
+C:\Users\user\Downloads\For-Bonus-Ron\For-Bonus-Ron\obj\Debug\netcoreapp2.1\For-Bonus-Ron.pdb
